@@ -918,7 +918,7 @@ form .forget-pas{
     text-indent: 101%;
     overflow: hidden;
     white-space: nowrap;
-    background: url(/assets/logo_l@svg.svg);
+    background: url("../assets/logo_l@svg.svg");
     width: 245px;
     height: 49px;
     background-size: contain;
