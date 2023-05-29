@@ -103,7 +103,7 @@ img{
 /*header end*/
 /*banner start*/
 .banner{
-    background: url(/assets/header_desktop.png);
+    background: url("../assets/header_desktop.png");
     height: 460px;
     background-size: cover;
     background-position: center center;
@@ -162,7 +162,7 @@ img{
         max-height:300px;
     }
     .banner{
-        background:url(/assets/header_mobile.png);
+        background:url("../assets/header_mobile.png");
         background-size: cover;
         background-position:center center;
     }
@@ -259,7 +259,7 @@ img{
     padding: 0 1rem;
 }
 .chef-today-pic{
-    background:url(/assets/main_chef_brown.png);
+    background:url("../assets/main_chef_brown.png");
     width: 50%;
     background-size: cover;
     background-position: right center;
@@ -644,7 +644,7 @@ input[type=radio]{
     right:0;
 }
 .pro-img-1{
-    background:url(/assets/product_1.png);
+    background:url("../assets/product_1.png");
     background-position: center center;
     background-size: cover;
     width: 100%;
@@ -653,7 +653,7 @@ input[type=radio]{
     position: relative;
 }
 .pro-img-2{
-    background: url(/assets/product_2.png);
+    background: url("../assets/product_2.png");
     background-position: center center;
     background-size: cover;
     width: 100%;
@@ -661,7 +661,7 @@ input[type=radio]{
     border-radius: 5px 5px 0 0;
 }
 .pro-img-3{
-    background: url(/assets/product_3.png);
+    background: url("../assets/product_3.png");
     background-position: center center;
     background-size: cover;
     width: 100%;
@@ -669,7 +669,7 @@ input[type=radio]{
     border-radius: 5px 5px 0 0;
 }
 .pro-img-4{
-    background: url(/assets/product_4.png);
+    background: url("../assets/product_4.png");
     background-position: center center;
     background-size: cover;
     width: 100%;
