@@ -724,6 +724,9 @@ input[type=radio]{
     letter-spacing:1.5px;
     margin-bottom:16px;
 }
+.login form{
+    width: 95%;
+}
 .login .form-container input[type=email]{
     padding: 5px 14px;
     height: auto;
