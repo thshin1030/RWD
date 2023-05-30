@@ -791,6 +791,7 @@ form .forget-pas{
     font-weight: bold;
     background:orangered;
 }
+/*表格輸入icon start*/
 .mail{
     position: relative;
     display: inline-block;
@@ -829,6 +830,7 @@ form .forget-pas{
 .lock input{
     text-indent:12px;
 }
+/*表格輸入icon end*/
 /*登入表單 end*/
 /*登入頁面 end*/
 @media (max-width:850px) {
@@ -892,7 +894,6 @@ form .forget-pas{
         height:150px;
     }
 }
-
 /*手機版本-地圖+定位表單斷點 end*/
 /*content(map+form) end*/
 /*footer start*/
