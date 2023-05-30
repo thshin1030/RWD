@@ -448,10 +448,12 @@ input[type=radio]{
         margin: 1rem 0 0 0;
     }
 }
+/*購買頁面css start*/
 .cart{
     display: flex;
     padding: 1rem;
 }
+    /*搜尋欄位 start*/
 .searchbar{
     display: flex;
     width: 60%;
@@ -468,6 +470,8 @@ input[type=radio]{
     border: none;
     cursor: pointer;
 }
+    /*搜尋欄位end*/
+    /*產品項目 start*/
 .product-container{
     display: flex;
     justify-content: space-between;
@@ -507,6 +511,15 @@ input[type=radio]{
     height: 20px;
     border-radius: 50%;
 }
+.product{
+    width: 75%;
+}
+.add-cart .fa-cart-shopping{
+    font-size: 16px;
+    margin-right:10px;
+}
+    /*產品項目頁面end*/
+    /*左側分類欄 start*/
 .sidebar{
     width: 25%;
     padding: 0 1rem;
@@ -532,13 +545,8 @@ input[type=radio]{
     font-size: 20px;
     margin-bottom: 26px;
 }
-.product{
-    width: 75%;
-}
-.add-cart .fa-cart-shopping{
-    font-size: 16px;
-    margin-right:10px;
-}
+/*右側分類欄 end*/
+    /*產品項目box start*/
 .product-box{
     width: 31.3333%;
     margin: 1rem 1% 1%;
@@ -680,6 +688,9 @@ input[type=radio]{
     background: #f56c23;
     color: #FFFFFF;
 }
+    /*產品項目box end*/
+/*購買頁面 end*/
+/*登入頁面 start*/
 .login{
     background: #EFE9E7;
     padding: 2rem 0;
@@ -915,7 +926,6 @@ form .forget-pas{
 }
 .ftr-sm{
     float: right;
-
 }
 .ftr-logo h2 a{
     text-indent: 101%;
@@ -956,3 +966,4 @@ form .forget-pas{
     margin-top:30px;
 }
 }
+/*footer end*/
