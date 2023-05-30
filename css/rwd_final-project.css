@@ -714,6 +714,7 @@ input[type=radio]{
     width: 95%;
     margin: auto;
 }
+/*登入表單 start*/
 .form-container{
     border-top:4px solid #f56c23;
     width: 30%;
@@ -828,6 +829,8 @@ form .forget-pas{
 .lock input{
     text-indent:12px;
 }
+/*登入表單 end*/
+/*登入頁面 end*/
 @media (max-width:850px) {
     .product-box{
         width: 48%;
